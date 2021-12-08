@@ -29,3 +29,5 @@ The dataset for this project is 2 csv files:
 * Normaloperation.csv
 
 * Faultyoperation.csv
+
+The csv files is formed by 18 rows, the first 3 rows correspond to measurements of ozon, nitrogen oxyde and dioxide on the first location, the 3 following rows to the measurements on the second location and so on.
