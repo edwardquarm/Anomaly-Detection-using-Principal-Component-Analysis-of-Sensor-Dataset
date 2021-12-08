@@ -8,4 +8,4 @@
 ## Motivation
 
 There is a need to identify abnormalities in sensor data from equipment so as to predict faults in equipments way before they break down.
-This project uses statistics concepts such as mean and variance to build  a fault detection algorithm using a sliding window that learns from the sensor data and makes prediction on possible faults.
+This project uses machine learning algorithm; Principal Component Analysis (PCA) for a fault detection system for a sensors network measuring air pollutants and to localize on line the faulty sensor. 
