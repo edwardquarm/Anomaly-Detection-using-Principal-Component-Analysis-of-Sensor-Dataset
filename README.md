@@ -3,7 +3,7 @@
 ## Table of contents
 * [Motivation](#Motivation)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Dataset](#dataset)
 
 ## Motivation
 
@@ -21,3 +21,11 @@ Code is written in:
 Methods used are:
 * Principal Component Analysis
 * Data Visualization
+
+
+## Dataset
+The dataset for this project is 2 csv files:
+
+* Normaloperation.csv
+
+* Faultyoperation.csv
