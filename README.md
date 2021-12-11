@@ -1,4 +1,4 @@
-# Principal-Component-Analysis-of-Sensor-Dataset
+# Principal Component Analysis Anomaly Detection
 
 ## Table of contents
 * [Motivation](#Motivation)
